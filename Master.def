@@ -1,0 +1,7 @@
+; Master.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Master"
+DESCRIPTION  'Master Windows Dynamic Link Library'
+
+EXPORTS
+RateInfo
